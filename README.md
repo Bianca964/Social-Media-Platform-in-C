@@ -1,7 +1,3 @@
-**Echipa tema 3 SD**
-
-cpostelnicu1407
-bianca.farcasanu
 
 ## Descriere:
 
